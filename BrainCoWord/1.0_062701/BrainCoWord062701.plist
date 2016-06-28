@@ -14,7 +14,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/htxs/AdHoc/master/BrainCoWord/1.0_062701/small_icon.png</string>
+					<string>https://raw.githubusercontent.com/htxs/AdHoc/master/BrainCoWord/small_icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -22,7 +22,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/htxs/AdHoc/master/BrainCoWord/1.0_062701/large_icon.png</string>
+					<string>https://raw.githubusercontent.com/htxs/AdHoc/master/BrainCoWord/large_icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
